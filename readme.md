@@ -14,7 +14,7 @@
 
 Windows inside a Docker container.
 
-## Features ✨
+## Features 
 
  - ISO downloader
  - KVM acceleration
