@@ -1,8 +1,8 @@
 {
-  "name": "Windows 11 Pro",
+  "name": "Windows 7 ultimate",
   "service": "windows",
   "containerEnv": {
-    "VERSION": "11"
+    "VERSION": "7u"
   },
   "forwardPorts": [8006],
   "portsAttributes": {
